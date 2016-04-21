@@ -1,8 +1,7 @@
 # Farlands
 Factorio modpack
 
-Additional mods that can't be included in this repository because of their file size:  
-Color Coding: https://forums.factorio.com/viewtopic.php?f=144&t=13907  
+This modpack focuses on Bob's mods and trains. RSO is used to spread the resources and encourage outposts. Angel's mods add more complexity to the ore processing chain.
   
 The complete mod list (in alphabetical order):  
   
@@ -15,7 +14,7 @@ Better Fluid Colors by Meppi (https://forums.factorio.com/viewtopic.php?f=144&t=
 Better Icons by Meppi (https://forums.factorio.com/viewtopic.php?f=144&t=23287)  
 Bob's mods by bobingsabout (https://forums.factorio.com/viewtopic.php?f=51&t=13919)  
 Bridge Railway by MrP123 (https://forums.factorio.com/viewtopic.php?f=92&t=21370)  
-Color Coding by d3phoenix (https://forums.factorio.com/viewtopic.php?f=144&t=13907)  
+Color Coding (lite) by d3phoenix (https://forums.factorio.com/viewtopic.php?f=144&t=13907)  
 Crafting Speed Research by Klonan (https://forums.factorio.com/viewtopic.php?f=93&t=15555)  
 EvoGUI by Narc (https://forums.factorio.com/viewtopic.php?f=92&t=13837)  
 ExtraChests by qjm123 (https://forums.factorio.com/viewtopic.php?f=91&t=19970)  
@@ -29,6 +28,7 @@ Landfill by Rseding91 (https://forums.factorio.com/viewtopic.php?t=4973)
 Logistics Mining by Afforess (https://forums.factorio.com/viewtopic.php?f=97&t=21868)  
 Logistics Railway by Supercheese (https://forums.factorio.com/viewtopic.php?f=93&t=21462)  
 Map Labels by DonovanHawkins (https://forums.factorio.com/viewtopic.php?f=92&t=22380)  
+Mod Iconizer by Roktaal (https://forums.factorio.com/viewtopic.php?f=92&t=23680)  
 Minable Rock by Ranakastrasz (https://forums.factorio.com/viewtopic.php?f=93&t=15991)  
 Misanthrope by Afforess (https://forums.factorio.com/viewtopic.php?f=97&t=17291)  
 Nucular by Simdezimon (https://forums.factorio.com/viewtopic.php?f=93&t=21676)  
