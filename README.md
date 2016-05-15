@@ -40,7 +40,6 @@ Player sensitive pressure plates by Dr. Walrus (https://forums.factorio.com/view
 Rail Tanker by Choumiko (https://forums.factorio.com/viewtopic.php?f=93&t=6847)  
 Resource Spawner Overhaul by orzelek (https://forums.factorio.com/viewtopic.php?f=79&t=13783)  
 Science Overhaul Mod A.K.A Science Cost Tweaker by UberWaffe (https://forums.factorio.com/viewtopic.php?f=91&t=14294)  
-Shuttle Trains by simwir (https://forums.factorio.com/viewtopic.php?f=92&t=23776)  
 Smarter Circuitry by Kikkers (https://forums.factorio.com/viewtopic.php?f=91&t=14824)  
 SmartTrains by Choumiko (https://forums.factorio.com/viewtopic.php?f=97&t=14432)  
 StraightCars by ficolas  
