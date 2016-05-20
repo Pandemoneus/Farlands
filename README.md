@@ -13,7 +13,6 @@ Angels Processing by Arch666Angel (https://forums.factorio.com/viewtopic.php?f=9
 Better Fluid Colors by Meppi (https://forums.factorio.com/viewtopic.php?f=144&t=23284)  
 Better Icons by Meppi (https://forums.factorio.com/viewtopic.php?f=144&t=23287)  
 Bob's mods by bobingsabout (https://forums.factorio.com/viewtopic.php?f=51&t=13919)  
-Bridge Railway by MrP123 (https://forums.factorio.com/viewtopic.php?f=92&t=21370)  
 Color Coding (lite) by d3phoenix (https://forums.factorio.com/viewtopic.php?f=144&t=13907)  
 Crafting Speed Research by Klonan (https://forums.factorio.com/viewtopic.php?f=93&t=15555)  
 EvoGUI by Narc (https://forums.factorio.com/viewtopic.php?f=92&t=13837)  
